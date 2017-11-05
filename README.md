@@ -20,11 +20,11 @@ How to Read a Paper: If you are completely new to reading papers,  you can start
 
 ### Week 2:  <Lecture>
 
-###Week 3: Congestion Control
+### Week 3: Congestion Control
 3. Van Jacobson, "Congestion Avoidance and Control", Proceedings of ACM SIGCOMM 1988. 
 4. J. Padhye et.al., "Modeling TCP Throughput: A Simple Model and its Empirical Validation", Proceedings of ACM SIGCOMM 1998. 
 
-## #Week 4: Modern Congestion Control
+### Week 4: Modern Congestion Control
 5.  S. Ha, I. Rhee, and L.Xu, "CUBIC: A New TCP-friendly High-speed TCP Variant", ACM SIGOPS Operating Systems Review July 2008. 
 6. Linux TCP (No Review to be submitted) http://people.cs.clemson.edu/~westall/853/linuxtcp.pdf 
 
